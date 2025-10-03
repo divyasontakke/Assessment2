@@ -1,5 +1,5 @@
 # Assessment2
-# 📝 PHP Todo List App
+# PHP Todo List App
 
 A simple **Todo List web application** built with **PHP, MySQL, and Pico.css**.  
 This project was created as a practice/assessment to learn CRUD operations (Create, Read, Update, Delete) in PHP.
@@ -15,7 +15,7 @@ This project was created as a practice/assessment to learn CRUD operations (Crea
 
 ---
 
-## 🗂 Project Structure
+## Project Structure
 project-root/
 │── assets/ # CSS (pico.min.css)
 │── classes/ # Todo class
@@ -34,5 +34,4 @@ project-root/
 │── index.php # List all todos
 │── mark-complete.php # Mark todo as completed
 └── README.md
-
 ---
